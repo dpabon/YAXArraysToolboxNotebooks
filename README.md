@@ -1,4 +1,4 @@
-# YAXArraysToolboxNotebooks
+# YAXArraysToolbox Tutorials
 
 
 Here you can find different Jupyter Notebooks showing the functionality of the [YAXArraysToolbox.jl](https://github.com/dpabon/YAXArraysToolbox.jl)
@@ -10,7 +10,9 @@ Here you can find different Jupyter Notebooks showing the functionality of the [
 3. [Changes on LST produced by changes on vegetation cover for Africa (using the ESDC)](https://github.com/dpabon/YAXArraysToolboxNotebooks/blob/main/Notebooks/ESDC_Africa_lst_changes.ipynb): Tutorial showing how to perform the space4time analysis using the Earth System Data Cube.
 
 
+# License
 
+[GPL-3](README.md)
 
 # Acknowledgements
 
