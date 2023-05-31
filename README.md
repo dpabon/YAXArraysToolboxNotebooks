@@ -9,6 +9,7 @@ Here you can find different Jupyter Notebooks showing the functionality of the [
 
 3. [Changes on LST produced by changes on vegetation cover for Africa (using the ESDC)](https://github.com/dpabon/YAXArraysToolboxNotebooks/blob/main/Notebooks/ESDC_Africa_lst_changes.ipynb): Tutorial showing how to perform the space4time analysis using the Earth System Data Cube.
 
+4. [Spatio-temporal folds generation for cross validation](Notebooks/spacetime_folds.ipynb)
 
 # License
 
